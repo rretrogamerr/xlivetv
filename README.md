@@ -4,7 +4,7 @@
 
 ## 다운로드
 
-- xlivetv.apk(https://github.com/rretrogamerr/xlivetv/releases/tag/v0.1)
+- xlivetv.apk(https://github.com/rretrogamerr/xlivetv/releases/tag/v0.2)
 
 ## 유의사항
 
@@ -18,4 +18,4 @@
 
 ## 개선사항 및 버그 등록
 
-- 이슈[https://github.com/rretrogamerr/xlivetv/issues]
+- [이슈](https://github.com/rretrogamerr/xlivetv/issues)
